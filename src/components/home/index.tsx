@@ -7,10 +7,11 @@ import { Footer } from "./Footer";
 export const HomePage = () => {
   return (
     <div className="home">
-      <LandingPage />
+      {/* <LandingPage />
       <Feautures />
       <AboutPage />
-      <Footer />
+      <Footer /> */}
+      hello
     </div>
   );
 };
